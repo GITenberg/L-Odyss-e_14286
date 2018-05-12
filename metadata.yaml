@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/705
     wikipedia: http://en.wikipedia.org/wiki/Homer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14286#L-Odyss-e
 gutenberg_bookshelf:
 - Classical Antiquity
 - FR Littérature
