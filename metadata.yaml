@@ -1,0 +1,46 @@
+_repo: L-Odyss-e_14286
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Leconte de Lisle
+    aliases:
+    - Leconte de Lisle, Charles Rene Marie
+    - Leconte de Lisle, Charles René Marie
+    birthdate: 1818
+    deathdate: 1894
+    gutenberg_agent_id: '26678'
+    url: http://www.gutenberg.org/2009/agents/26678
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Leconte_de_Lisle
+    - http://fr.wikipedia.org/wiki/Leconte_de_Lisle
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Homer
+    alias: Όμηρος
+    birthdate: -750
+    deathdate: -650
+    gutenberg_agent_id: '705'
+    url: http://www.gutenberg.org/2009/agents/705
+    wikipedia: http://en.wikipedia.org/wiki/Homer
+description: ''
+gutenberg_bookshelf:
+- Classical Antiquity
+- FR Littérature
+gutenberg_issued: '2004-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14286'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Odysseus, King of Ithaca (Mythological character)'
+- !lcc 'PA'
+- !lcsh 'Epic poetry, Greek -- Translations into French'
+- !lcsh 'Homer -- Translations into French'
+title: L'Odyssée
+url: http://www.gutenberg.org/ebooks/14286
